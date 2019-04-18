@@ -1,3 +1,7 @@
 ext {
-	noice_android='com.neonapps.android.lib.noice:noice-android:0.0.1'
+    // noice-android
+    noice_android='com.neonapps.noice:noice-android:0.0.1@aar'
+
+    // noice-recyclerview
+    noice_recyclerview='com.neonapps.noice:noice-recyclerview:0.0.1@aar'
 }
